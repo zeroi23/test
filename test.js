@@ -1,2 +1,1 @@
-document.getElementsByClassName('input_detail')[0].value="2B?";
-document.getElementsByClassName('send_btn')[0].click();
+javascript:document.getElementsByClassName('input_detail')[0].value="2B?";document.getElementsByClassName('send_btn')[0].click();
